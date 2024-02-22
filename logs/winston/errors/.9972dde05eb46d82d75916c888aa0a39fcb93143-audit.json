@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\.9972dde05eb46d82d75916c888aa0a39fcb93143-audit.json",
-    "files": [
-        {
-            "date": 1708562274022,
-            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-06-error.log",
-            "hash": "7a7e73095f7024f22652d9bbfc3e79703efee3151015ee3521e1b5c9e0f2a0b5"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\.9972dde05eb46d82d75916c888aa0a39fcb93143-audit.json",
+  "files": [
+    {
+      "date": 1708562274022,
+      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-06-error.log",
+      "hash": "7a7e73095f7024f22652d9bbfc3e79703efee3151015ee3521e1b5c9e0f2a0b5"
+    }
+  ],
+  "hashType": "sha256"
 }
