@@ -39,6 +39,16 @@
             "date": 1708676375373,
             "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-14-error.log",
             "hash": "7385e0bdaa3b002601938e8b3e3526f9d6abadb37c605fbb087d800fe7a96dca"
+        },
+        {
+            "date": 1708679081031,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-15-error.log",
+            "hash": "646bcb53333dc87a8d9f2b777a0b7a1d73c97bf44c6d3b0a9ad6adc438e424d7"
+        },
+        {
+            "date": 1708687034762,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-17-error.log",
+            "hash": "46c4652a56c31d612509ab01cb0c82d86bcceb7622d11ffb10e8419e498cb1f8"
         }
     ],
     "hashType": "sha256"
