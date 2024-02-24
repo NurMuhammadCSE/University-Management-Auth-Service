@@ -1,55 +1,100 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\.9972dde05eb46d82d75916c888aa0a39fcb93143-audit.json",
-  "files": [
-    {
-      "date": 1708562274022,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-06-error.log",
-      "hash": "7a7e73095f7024f22652d9bbfc3e79703efee3151015ee3521e1b5c9e0f2a0b5"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1708602846521,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-17-error.log",
-      "hash": "91922ab5e935e0e6ec156a34d19b5eb1fa4b6bc7cbbf75937a584e4bd2b10b42"
-    },
-    {
-      "date": 1708603343336,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-18-error.log",
-      "hash": "6cf9c848f5eeb44ce77c2c1a3a8c77929d2e61070af5781520a40bdf305accd0"
-    },
-    {
-      "date": 1708607980214,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-19-error.log",
-      "hash": "fead5ae4ef40d20855ff465b28739ed95a85c23257f1d00edbf71da11927296e"
-    },
-    {
-      "date": 1708614042772,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-21-error.log",
-      "hash": "98a3b73b56e35f9a2de9e7b0ae36385a5f7ba706a2f808e53d5e779c3b5720e8"
-    },
-    {
-      "date": 1708662378403,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-10-error.log",
-      "hash": "2a4a28d2989e49eadff2d3911a24687f90e6c11eee55d884aff60dca3653de3a"
-    },
-    {
-      "date": 1708676375373,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-14-error.log",
-      "hash": "7385e0bdaa3b002601938e8b3e3526f9d6abadb37c605fbb087d800fe7a96dca"
-    },
-    {
-      "date": 1708679081031,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-15-error.log",
-      "hash": "646bcb53333dc87a8d9f2b777a0b7a1d73c97bf44c6d3b0a9ad6adc438e424d7"
-    },
-    {
-      "date": 1708687034762,
-      "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-17-error.log",
-      "hash": "46c4652a56c31d612509ab01cb0c82d86bcceb7622d11ffb10e8419e498cb1f8"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\.9972dde05eb46d82d75916c888aa0a39fcb93143-audit.json",
+    "files": [
+        {
+            "date": 1708562274022,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-06-error.log",
+            "hash": "7a7e73095f7024f22652d9bbfc3e79703efee3151015ee3521e1b5c9e0f2a0b5"
+        },
+        {
+            "date": 1708602846521,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-17-error.log",
+            "hash": "91922ab5e935e0e6ec156a34d19b5eb1fa4b6bc7cbbf75937a584e4bd2b10b42"
+        },
+        {
+            "date": 1708603343336,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-18-error.log",
+            "hash": "6cf9c848f5eeb44ce77c2c1a3a8c77929d2e61070af5781520a40bdf305accd0"
+        },
+        {
+            "date": 1708607980214,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-19-error.log",
+            "hash": "fead5ae4ef40d20855ff465b28739ed95a85c23257f1d00edbf71da11927296e"
+        },
+        {
+            "date": 1708614042772,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-22-02-21-error.log",
+            "hash": "98a3b73b56e35f9a2de9e7b0ae36385a5f7ba706a2f808e53d5e779c3b5720e8"
+        },
+        {
+            "date": 1708662378403,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-10-error.log",
+            "hash": "2a4a28d2989e49eadff2d3911a24687f90e6c11eee55d884aff60dca3653de3a"
+        },
+        {
+            "date": 1708676375373,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-14-error.log",
+            "hash": "7385e0bdaa3b002601938e8b3e3526f9d6abadb37c605fbb087d800fe7a96dca"
+        },
+        {
+            "date": 1708679081031,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-15-error.log",
+            "hash": "646bcb53333dc87a8d9f2b777a0b7a1d73c97bf44c6d3b0a9ad6adc438e424d7"
+        },
+        {
+            "date": 1708687034762,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-17-error.log",
+            "hash": "46c4652a56c31d612509ab01cb0c82d86bcceb7622d11ffb10e8419e498cb1f8"
+        },
+        {
+            "date": 1708691835144,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-18-error.log",
+            "hash": "ebd93368b2e5bc955e6776ef6561107f7b242c2d16a83936658f6814ef2b7b78"
+        },
+        {
+            "date": 1708693582241,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-19-error.log",
+            "hash": "23e656ccd475904d8e2c2822502b139b0c95956a8ebf97ec662db6937b3b45d7"
+        },
+        {
+            "date": 1708702802951,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-23-02-21-error.log",
+            "hash": "8f92f1b0486a8b3444ad94054a3fc998d7d64a15eefd30ab70bbf98e5fc7cc11"
+        },
+        {
+            "date": 1708738768018,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-24-02-07-error.log",
+            "hash": "69e7d42342228bbee98ac637046521c915d9a4f3ce3c666b9b4a030cae1fbaef"
+        },
+        {
+            "date": 1708740006621,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-24-02-08-error.log",
+            "hash": "92a3f1b3b8375bb5bc935e6d110e1cc83ab1cde0e74411ad820ea1abeb8893d9"
+        },
+        {
+            "date": 1708755909630,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-24-02-12-error.log",
+            "hash": "100452d63f391ed159e3f31b529b4a86cd5b0a3a5ed17736a0fb127fe7fa9a37"
+        },
+        {
+            "date": 1708761502228,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-24-02-13-error.log",
+            "hash": "9fa6555e5b25696fe2ad77f79afe9033b0529faac3fd0f706f92c474447f4d43"
+        },
+        {
+            "date": 1708761680978,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-24-02-14-error.log",
+            "hash": "c00c2227bc41b75f1d1d85bc814cfd259b5d2ca4aeaac28e6968429f6b952f01"
+        },
+        {
+            "date": 1708765213519,
+            "name": "D:\\Apollo\\Mission 3\\University-Mangement-Service\\logs\\winston\\errors\\phu-2024-24-02-15-error.log",
+            "hash": "7a9e26f3d4281b44928aee5fd0a5de68cb1c78048749e280cfe5d0d3c468e945"
+        }
+    ],
+    "hashType": "sha256"
 }

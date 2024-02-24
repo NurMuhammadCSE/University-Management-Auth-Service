@@ -6,7 +6,7 @@ export const findLastStudentId = async (): Promise<string | undefined> => {
     {
       role: 'student',
     },
-    { id: 1, _id: 0 },
+    { id: 1, _id: 0 }
   )
     .sort({
       createdAt: -1,
@@ -17,7 +17,7 @@ export const findLastStudentId = async (): Promise<string | undefined> => {
 };
 
 export const generateStudentId = async (
-  academicSemester: IAcademicSemester,
+  academicSemester: IAcademicSemester
 ): Promise<string> => {
   const currentId =
     (await findLastStudentId()) || (0).toString().padStart(5, '0'); //00000
